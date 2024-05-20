@@ -1,2 +1,2 @@
-# SKIBIDI.githib.io
+# SKIBIDI.github.io
 What the Sigma?
